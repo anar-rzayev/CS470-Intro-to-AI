@@ -1,1 +1,1 @@
-# CS470-Intro-to-AI
+# Heartificial Mind
